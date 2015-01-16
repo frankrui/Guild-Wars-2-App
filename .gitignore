@@ -1,1 +1,9 @@
+#ignore bin file
 bin/
+
+#ignore Android build files
+gen/
+
+#ignore eclipse files
+.metadata/
+.settings/
