@@ -1,4 +1,4 @@
-package com.example.gw2app;
+package com.gw2app.ui;
 
 import android.os.Bundle;
 import android.app.Activity;

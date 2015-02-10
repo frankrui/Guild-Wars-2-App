@@ -1,4 +1,4 @@
-package gw2app.Model;
+package com.gw2app.model;
 
 /**
  * Created by frankrui on 08/02/2015.
